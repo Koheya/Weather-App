@@ -22,7 +22,7 @@ Weather Application Displays weather by searching city name by usin free API .
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/Koheya/News-Cloud-App.git
+    git clone https://github.com/Koheya/Weather-App.git
     ```
 
 ## Contributing
